@@ -5,3 +5,6 @@ Leaflet.js
 SQLite
 Jackson JSON
 JFreeChart
+Leaflet.js
+Webviewjs
+JavaFX
