@@ -1,0 +1,58 @@
+==================================================
+       DISASTER EVACUATION REPORT
+==================================================
+Generated   : 25-04-2026 13:44:52
+Disaster    : Fire
+Severity    : Medium
+Location    : Kothrud
+Population  : 5000
+
+==================================================
+  SHELTER ALLOCATION SUMMARY
+==================================================
+  Warje                : 1000 people
+  Shivajinagar         : 700 people
+  Camp                 : 1200 people
+  Aundh                : 900 people
+  Baner                : 600 people
+  Katraj               : 600 people
+  TOTAL ALLOCATED      : 5000 people
+
+==================================================
+  EVACUATION ROUTES
+==================================================
+  Kothrud → Warje (4 km)
+  Kothrud → Shivajinagar (6 km)
+  Kothrud → Shivajinagar → Camp (11 km)
+  Kothrud → Shivajinagar → Aundh (13 km)
+  Kothrud → Shivajinagar → Aundh → Baner (16 km)
+  Kothrud → Shivajinagar → Katraj (16 km)
+  Kothrud → Shivajinagar → Pimpri (18 km)
+  Kothrud → Shivajinagar → Camp → Hadapsar (21 km)
+  Kothrud → Shivajinagar → Aundh → Baner → Hinjewadi (24 km)
+  Kothrud → Shivajinagar → Camp → Hadapsar → Magarpatta (24 km)
+
+==================================================
+  ALLOCATION LOG
+==================================================
+  🔴 Disaster: Fire at Kothrud (Medium)
+  👥 Total population: 5000
+  📍 Radius: 1160m
+  ─────────────────────────────────
+  ✅ Warje ← 1000 people   |   4000 still need shelter
+  ⚠ Warje is now FULL — redirecting 4000 people to next shelter
+  ✅ Shivajinagar ← 700 people   |   3300 still need shelter
+  ⚠ Shivajinagar is now FULL — redirecting 3300 people to next shelter
+  ✅ Camp ← 1200 people   |   2100 still need shelter
+  ⚠ Camp is now FULL — redirecting 2100 people to next shelter
+  ✅ Aundh ← 900 people   |   1200 still need shelter
+  ⚠ Aundh is now FULL — redirecting 1200 people to next shelter
+  ✅ Baner ← 600 people   |   600 still need shelter
+  ⚠ Baner is now FULL — redirecting 600 people to next shelter
+  ✅ Katraj ← 600 people   |   0 still need shelter
+  ─────────────────────────────────
+  🎉 Evacuation complete! All 5000 people allocated.
+
+==================================================
+  END OF REPORT
+==================================================
